@@ -1,0 +1,23 @@
+{
+  "name": "discord-collectors",
+  "version": "1.0.0",
+  "description": "Trabalhe de maneira prática os coletores para Discord.JS!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fagnersales/Discord-Collectors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fagnersales/Discord-Collectors/issues"
+  },
+  "homepage": "https://github.com/fagnersales/Discord-Collectors#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
